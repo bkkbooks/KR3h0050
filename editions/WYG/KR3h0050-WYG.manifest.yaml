@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3h0050_000-WYG.yaml, hash: 'sha256:5a724dcdf8ef37fe19f9834660584866b02dc1ea1f102a94a97e54f6ed8afe0e'}
   - {seq: 1, filename: KR3h0050_001-WYG.yaml, hash: 'sha256:939662b5618001e0cad564d93bc48b5ec1a7dee52f0459e9e13ad92aa244925f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0050_000-WYG.markers.yaml, hash: 'sha256:e456d93fbc88e1a8538daef40d7da2b3bb1d226ba3acd4cab6c820072f6bf826'}
+  - {seq: 0, role: markers, filename: assets/KR3h0050_000-WYG.markers.yaml, hash: 'sha256:0c692a98a4ffd6f32e5111c66f9c04936425887fba7126f737ed1fe66e2e6751'}
   - {seq: 1, role: markers, filename: assets/KR3h0050_001-WYG.markers.yaml, hash: 'sha256:40fcfc3611a31a9f6cb56f77836433dc6fd21020a80da69d1c6128d2b463973a'}
 table_of_contents:
 - ref:
@@ -53,4 +53,4 @@ table_of_contents:
   label: 書法雅言
   type: section
   level: 1
-hash: sha256:4c077234ca8949105e2dd39989cdec6253611b2e60db1f8bab412938f3f343c0
+hash: sha256:a8e294a0641fc2be1ff5a909cfc63a5af223d85abd862c473f3fe9bc9c3f2e9d

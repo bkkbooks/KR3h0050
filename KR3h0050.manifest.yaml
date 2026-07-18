@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR3h0050_000.yaml, hash: 'sha256:29edee3edd3fe13e860909410c59e9006fe1846600e241d0b188dba23b34e1b9'}
   - {seq: 1, filename: KR3h0050_001.yaml, hash: 'sha256:9ce62019c3bbc9f62ca2652114b474bc9a9ecdcb1016fd2f4a7a3229c5dd9bb2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3h0050_000.markers.yaml, hash: 'sha256:918d83b9fc528fde5159505d50d3efc2fc3c2aa99de37bc9e3363e82157d8083'}
+  - {seq: 0, role: markers, filename: assets/KR3h0050_000.markers.yaml, hash: 'sha256:3e7a309e3db01a0e5b6f38d7cc92c3f79e9819455c25cec36535678ab1f2bdab'}
   - {seq: 1, role: markers, filename: assets/KR3h0050_001.markers.yaml, hash: 'sha256:29217c616fd268bf62ec34770082cccc190c1ccc3ae228488ef600484c6a26da'}
 table_of_contents:
 - ref:
@@ -56,7 +56,7 @@ table_of_contents:
   label: 書法雅言
   type: section
   level: 1
-hash: sha256:7dec96b50e27c667df3973f591721f5fef19c478712fbd43930c648b011f5d83
+hash: sha256:5870f4ea4e51372f098f74965c99e17e38eb1932e9ccde22d9aa1cfe555f354e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
